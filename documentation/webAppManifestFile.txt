@@ -1,0 +1,18 @@
+The we app manifest is a JSON file
+1. the file contains therefore provides information about our app to the browser.
+2. icons dimensions are as follows 
+
+icon-72x72.png
+icon-96x96.png
+icon-128x128.png
+icon-144x144.png
+icon-152x152.png
+icon-192x192.png
+icon-384x384.png
+icon-512x512.png
+
+
+
+Service Worker
+====================
+The install event is mostly used for downloading static site assets so the software can run in offline mode properly.
